@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "2ec5deeb273c1c872b3207ae",
+  "owner": "vruqtumfy",
+  "repo": "page-4dd157aba7ea4e2874711ceb",
+  "title": "clash代理",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4dd157aba7ea4e2874711ceb",
+      "a": "clash代理",
+      "b": "",
+      "entity": "clash代理",
+      "brand": "clash代理",
+      "separator": "",
+      "path": "index.html",
+      "hash": "396b51bc27af6b811f7ede21df2fcb5440b098426a67cd6a3b88af49be398c1c",
+      "content": {
+        "keyword1": "clash代理",
+        "keyword2": "",
+        "primary_entity": "clash代理",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clash代理提供机场订阅与 VPN 网络加速服务，本页介绍使用场景、套餐、客户端下载和接入步骤，并解答常见问题。",
+          "AI_DESCRIPTION": "clash代理提供机场订阅与 VPN 网络加速服务，本页介绍使用场景、套餐、客户端下载和接入步骤，并解答常见问题。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>:root{--bg:#F6F3EC;--ink:#1A211A;--green:#1B4332;--card:#FFFCF7;--line:#D5DDD4}*{box-sizing:border-box}html{font-size:100%}body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,sans-serif;line-height:1.75;overflow-wrap:anywhere}a{color:#145C38}header{background:var(--green);color:#F6F3EC}header a{color:#F6F3EC} .wrap{width:100%;max-width:40rem;margin:0 auto;padding:0 1.15rem} .brand{font-weight:700;font-size:1.15rem;padding:1rem 0 .35rem}nav{display:flex;flex-wrap:wrap;gap:.65rem 1rem;padding:0 0 1rem;font-size:.95rem}nav a{text-decoration:underline;text-underline-offset:.18em}h1{font-size:1.85rem;line-height:1.3;margin:0 0 .7rem;color:var(--green)}h2{font-size:1.35rem;line-height:1.4;margin:0 0 .75rem;color:var(--green)}h3{font-size:1.08rem;line-height:1.4;margin:0 0 .3rem;color:var(--green)}p{margin:0 0 .85rem;font-size:1rem}section{padding:1.7rem 0;border-top:1px solid var(--line)} .hero{border-top:0;padding-top:1.4rem}ul,ol{margin:0 0 1rem;padding-left:1.2rem}li{margin:.35rem 0}article,.plan{background:var(--card);border:1px solid var(--line);border-radius:.75rem;padding:1rem;margin:0 0 .85rem} .plan.featured{border:2px solid var(--green);background:#E7F0EA} .price{font-size:1.35rem;font-weight:700;color:var(--green);margin:.2rem 0} .annual{color:#245C40} .tag{display:inline-block;background:var(--green);color:#F6F3EC;font-size:.85rem;padding:.12rem .55rem;border-radius:999px} .steps{list-style:none;margin:0;padding:0} .steps li{position:relative;margin:0 0 0 1rem;padding:0 0 1.15rem 1.7rem;border-left:2px solid #8FAF98} .steps li:last-child{border-left-color:transparent;padding-bottom:0} .num{position:absolute;left:-.7rem;top:0;width:1.4rem;height:1.4rem;border-radius:50%;background:var(--green);color:#F6F3EC;text-align:center;line-height:1.4rem;font-size:.85rem;font-weight:700} .faq{background:var(--green);color:#F6F3EC;border-top:0} .faq h2,.faq .note{color:#F6F3EC} .faq details{background:#F6F3EC;color:var(--ink);border-radius:.75rem;margin:0 0 .75rem;padding:.9rem 1rem} .faq summary{font-weight:700;font-size:1.05rem;color:var(--green)} .faq details p{margin:.55rem 0 0} .btn{display:inline-block;background:var(--green);color:#F6F3EC;text-decoration:none;padding:.7rem 1rem;border-radius:.6rem;font-weight:700;margin:.25rem .45rem .25rem 0}footer{padding:1.4rem 0 2rem;font-size:.95rem}</style><header><div class=\"wrap\"><div class=\"brand\">clash代理</div><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#plans\">套餐</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main><div class=\"wrap\"><section class=\"hero\"><h1>clash代理</h1><p>clash代理把机场订阅、VPN 网络加速和客户端下载放在同一套说明里。选好套餐后，用兼容客户端导入订阅，即可按浏览、流媒体或游戏等场景切换线路。</p><p><a class=\"btn\" href=\"#plans\">查看套餐</a><a class=\"btn\" href=\"#guide\">按步骤接入</a></p></section></div><section id=\"intro\"><div class=\"wrap\"><h2>品牌简介</h2><p>clash代理是面向日常跨境访问的订阅服务，接入方式以 Clash 兼容客户端为主。口语里的梯子、加速器或 VPN，在本页都对应同一流程：购买机场订阅，下载客户端，导入配置后选用节点。</p><p>服务按流量、同时在线设备和线路类型区分。基础版使用普通线路节点池；旗舰版增加原生流媒体解锁与 IPLC 专线游戏优化；团队版提供更高带宽和定制路由。页面只说明产品差异，不展示测速排名或用户评分。</p><h3>线路怎么理解</h3><p>订阅更新后，客户端会列出当前可用节点。普通节点适合网页和文档；流媒体是否可看，取决于套餐是否包含解锁；游戏或对延迟敏感的应用，优先看旗舰版的专线说明。节点地区会随线路维护变化，以客户端里的最新列表为准。</p></div></section><section id=\"scenes\"><div class=\"wrap\"><h2>使用场景</h2><article><h3>远程协作与学习</h3><p>需要打开放在境外的文档、代码仓库、会议页或公开课程时，可先连一条普通线路。若页面仍打不开，换同地区另一节点，比反复刷新更有效。</p></article><article><h3>流媒体</h3><p>基础版提供基础流媒体解锁，适合偶尔观看。若多个平台都要稳定打开，旗舰版的全节点原生解锁更合适。播放前在客户端选对应地区，并确认账户地区与线路地区不要互相冲突。</p></article><article><h3>游戏与团队办公</h3><p>旗舰版包含 IPLC 专线游戏加速优化。人数多、设备多或要按企业网络做分流时，看团队版的设备数、高带宽节点和定制路由，而不是把个人套餐重复购买。</p></article></div></section><section id=\"guide\"><div class=\"wrap\"><h2>操作说明</h2><p>下面按实际接入顺序排列。每一步完成后再进入下一步，避免订阅还没生效就反复重装客户端。</p><ol class=\"steps\"><li><span class=\"num\">1</span><h3>选定套餐与付费周期</h3><p>对照基础版、旗舰版、团队版的流量和设备数。月付适合先试用，年付价格已在各套餐中标出。设备数按同时在线计算，不是按历史登录过的手机数量累计。</p></li><li><span class=\"num\">2</span><h3>获取并保管订阅</h3><p>付款完成后，在订单或账户说明里复制订阅地址。订阅相当于线路入口，不要发到公开群或截图外传。更换设备时用同一订阅重新导入即可。</p></li><li><span class=\"num\">3</span><h3>下载兼容客户端</h3><p>按系统选择 Clash 兼容客户端。只使用可核对来源的正式版本，不安装来路不明的修改包。本页下载说明见下方锚点，不直接托管安装文件。</p></li><li><span class=\"num\">4</span><h3>导入订阅并选线路</h3><p>在客户端添加订阅并更新。浏览用普通节点，看视频时换带流媒体说明的节点，游戏再看专线是否包含在当前套餐。系统时间误差过大会导致连接失败，先核对时间。</p></li><li><span class=\"num\">5</span><h3>做一次访问检查</h3><p>连接后打开一个平时会用的网页或应用。若只有某一个站点失败，多半是该节点策略问题，换节点即可；若全部失败，回到订阅是否更新、本地网络是否可用这两项排查。</p></li></ol></div></section><section id=\"plans\"><div class=\"wrap\"><h2>套餐与机场订阅</h2><p>三档都按月标价，并给出年付总额。功能以订购页所列为准，流量按月计算，未使用部分是否结转以当时套餐说明为准。</p><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><span class=\"tag\">常用选择</span><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"download\"><div class=\"wrap\"><h2>客户端下载</h2><p>clash代理官网不把安装包嵌在本页，避免过期文件和来源不清的二次打包。请按自己的系统准备 Clash 兼容客户端，再回到操作说明导入订阅。</p><h3>按系统准备</h3><ul><li>电脑：Windows 与 macOS 使用桌面版 Clash 兼容客户端，导入订阅后可看到节点列表。</li><li>手机：Android 与 iOS 使用各自系统可安装的兼容客户端，注意系统权限里允许 VPN 配置。</li><li>路由器或多人共用：设备数受套餐限制。超过同时在线数时，后连上的设备可能被挤掉，团队版才适合二十台规模。</li></ul><p>下载与接入都从本页锚点继续：<a href=\"#guide\">回到操作说明</a>，或 <a href=\"#faq\">先看常见问题</a>。不要把陌生人发来的“加速器安装包”当作 clash代理客户端。</p></div></section><section class=\"faq\" id=\"faq\"><div class=\"wrap\"><h2>常见问题</h2><p class=\"note\">以下回答针对订阅、客户端和套餐差异，便于下单前核对。</p><details><summary>clash代理是什么，和加速器、梯子是一回事吗？</summary><p>是同一类网络加速服务的不同叫法。clash代理以机场订阅提供线路，再用 VPN 形式的客户端把流量接到所选节点。它不是单机清理软件，也不能代替正版账户或应用内购。</p></details><details><summary>机场订阅购买后怎么用到客户端里？</summary><p>在订单说明中复制订阅地址，打开 Clash 兼容客户端，选择添加订阅或导入配置，更新节点后再连接。换电脑或手机时重复导入即可，不必为每台设备单独买订阅，但同时在线数不能超过套餐上限。</p></details><details><summary>客户端应该从哪里下载？</summary><p>从可核对的客户端发布渠道获取正式版，并对照本页的下载说明选择系统。clash代理不在本页放置外部安装地址。凡是要求关闭安全软件、索取订阅链接或付款到私人账户的“官网下载”，都不要使用。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>一个人、流量不大、只需要基础流媒体，选基础版。要 300GB、五台设备、原生流媒体和游戏专线，选旗舰版。公司或多人共用、需要 1000GB、二十台设备和定制路由，选团队版。年付金额已写在各套餐标题下方。</p></details><details><summary>流量和同时在线设备如何计算？</summary><p>流量按自然月内经过节点的用量累计，看视频和下载比浏览网页更快用完。同时在线指同一时刻连着的设备数：基础版 3 台，旗舰版 5 台，团队版 20 台。关掉客户端或断开连接后，名额会释放给其他设备。</p></details><details><summary>连上以后仍然打不开网页怎么办？</summary><p>先更新订阅并更换节点，再确认本机网络和系统时间正常。只有视频站失败时，检查当前套餐是否包含对应解锁。全部站点都失败时，不要反复安装不明插件，按操作说明从订阅导入重新做一遍；旗舰版可走优先工单，团队版可联系客户经理。</p></details></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>clash代理产品说明页，介绍机场订阅、网络加速与客户端接入。页内链接均为锚点，套餐内容与标价以本页所列为准。</p><p><a href=\"#intro\">返回简介</a> · <a href=\"#plans\">返回套餐</a> · <a href=\"#\">页顶</a></p></div></footer>",
+          "hash": "732b063ef4cbedff4e9137560cc227e4851d7161dd79f3de5f2c4caad8265c07",
+          "seo": {
+            "title": "clash代理官网：VPN 加速、机场订阅与客户端下载",
+            "keywords": "clash代理,clash代理机场,clash代理VPN,机场订阅,网络加速,加速器,客户端下载,官网下载",
+            "description": "clash代理提供机场订阅与 VPN 网络加速服务，本页介绍使用场景、套餐、客户端下载和接入步骤，并解答常见问题。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "okvhsvk.cn",
+    "host": "p-0154f6da91.okvhsvk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "a72a4092bcd5dd4bafdefe90d95e268957a73ee691affddb2e86eb047c3c7e8c",
+    "sitemap.xml": "1f1eadd0fe58f08f36ac1c18f99424f932f04018b28268081e167b522c367210",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "18e579b8a6495b549d212f2a1831fb3fa7f383b23b52efe6b09e3380a2849c4b",
+    "robots.txt": "b08664984f0edd4a29a1639c18d16be7bd95ed48331802d3ed5212927a688d74",
+    "70f09b9863dd4d6cac48dc52d9460762.txt": "9483b467d0d48358013d74b4d5e0594b64e2226cc40f78d85a02292c2657e219"
+  },
+  "revision": "c8ea1fc0d7a4e3cee6a0aa13c8441569457dcfe473122fef458971fbbac2ed28"
+}
